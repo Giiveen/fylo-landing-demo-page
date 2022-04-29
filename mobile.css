@@ -1,0 +1,21 @@
+@media (min-width: 375px) and (max-width: 650px){
+    #section3 {
+        display: grid;
+        gap: 50px;
+    }
+
+    p.sec3 {
+        width: 80%;
+        margin: auto;
+    }
+    .section1 {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin: 1.5625rem 0 3.4375rem;
+    }
+
+}
+
+
+
